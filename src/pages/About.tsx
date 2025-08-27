@@ -8,7 +8,7 @@ export default function About() {
           {/* Logo Section */}
           <div className="flex items-center justify-center">
             <img 
-              src="https://cdn.discordapp.com/attachments/1308442126937489540/1326923306842198057/Logo_-_OSheas_Barber_-_Copie.png?ex=67832b61&is=6781d9e1&hm=2300111732ddb4380eb30aa908ec0240174f0ca8adcf09fcef5e6d6f80bb2de9&" 
+              src="https://i.ibb.co/JRRGKkn1/logo.png" 
               alt="O'Sheas Barbers Logo"
               className="w-[350px] h-[350px] object-contain"
             />

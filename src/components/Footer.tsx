@@ -40,7 +40,7 @@ export default function Footer() {
       <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" className="h-8 w-7" />
     </a>
     <a href="/" className="hover:text-amber-500 transition-colors">
-  <img src="https://cdn.discordapp.com/attachments/1308442126937489540/1327584187175407636/internet.png?ex=6783989f&is=6782471f&hm=ec7e37c85bc772b0da2a47ee47502a9e7a0c4fcde84be02b177acadef1cbbf92&" alt="Accueil" className="h-7 w-7,5" />
+  <img src="https://i.ibb.co/TBc1DV5v/internet.png" alt="Accueil" className="h-7 w-7,5" />
 </a>
             </div>
           </div>
